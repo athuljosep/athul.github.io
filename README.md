@@ -1,9 +1,9 @@
 # Welcome to Athul Jose Pulikkottil's Personal Website
 
 ## About Me
-Hello, I'm Athul Jose Pulikkottil, a responsible and hardworking self-starter who always perseveres to achieve the best results. I thrive both independently and collaboratively in a team setting, bringing dedication and enthusiasm to every project I undertake. My passion lies in technology, web development, and digital marketing. I enjoy exploring new programming languages and building innovative web applications. 
+Hello! I'm Athul Pulikkottil, a Ph.D. candidate in Electrical Engineering at WSU's Pullman campus. I hold a B. Tech in Electrical and Electronics Engineering from India and a master's in Power Systems. My work with Kerala State Electricity Board and the Department of Science and Technology has nurtured my passion for the power sector, making it my specialization.
 
-On this website, you'll find information about my projects, coding experiments, and thoughts on the tech industry. I believe in continuous learning and am always excited about taking on new challenges.
+I'm intrigued by the math of interconnected grids and aim to address engineering challenges. WSU's innovative projects, backed by collaborations with national labs, led me here. I'm keen on modern power system optimization, energy-efficient infrastructure for grid stability, and enhancing system resilience. When not engrossed in academia, I find joy in piano melodies and badminton matches.
 
 ## Projects
 - **Portfolio Website:** This website you are currently visiting. A showcase of my skills and projects.
@@ -17,6 +17,6 @@ Check out my latest blog posts:
 - [Tips for Effective Coding](link-to-coding-tips) - Useful tips to write clean and efficient code.
 
 ## Contact
-Feel free to reach out to me at athul@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/athuljp/).
+Feel free to reach out to me at athul.p@wsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/athul-jose-p/).
 
 Thank you for visiting my website!

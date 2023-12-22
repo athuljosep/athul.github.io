@@ -13,6 +13,7 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Distributed Energy Resources & Microgrid
 
 ## Employment History
+|			   | 																												|
 |--------------|----------------------------------------------------------------------------------------------------------------|
 |06/22 - 06/23 | **Project Associate - I** 																						|
 |			   | Department of Electrical Engineering, National Institute of Technology Calicut.								|

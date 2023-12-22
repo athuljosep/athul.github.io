@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## About Me
 Responsible and hardworking self-starter who always perseveres to achieve the best results. Works well independently as well as collaboratively in a team setting
 
@@ -12,6 +18,13 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 				Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.
 03/20 – 10/20	**Graduate Engineer Trainee**
 				Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited
+				
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+				
 				
 ## Projects
 - **Portfolio Website:** This website you are currently visiting. A showcase of my skills and projects.

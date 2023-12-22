@@ -16,11 +16,11 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 
 |	  	    |											  																	|
 |-----------|---------------------------------------------------------------------------------------------------------------|
-|6/22-6/23|**Project Associate - I**																						|
-|		    | Department of Electrical Engineering, National Institute of Technology Calicut.								|
-|		    | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
-|3/20–10/20| **Graduate Engineer Trainee** 																				|
-|			| Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
+|06/22-|**Project Associate - I**																						|
+|06/23|Department of Electrical Engineering, National Institute of Technology Calicut.								|
+|		    |Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
+|03/20–|**Graduate Engineer Trainee** 																				|
+|10/20|Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
 				
 ## Education
 

@@ -18,6 +18,9 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 
 ## Employment History
 
+<font size="1"> this is font 1 </font>
+<font size="2"> this is font 2 </font>
+
 |			   |																												|
 |--------------|----------------------------------------------------------------------------------------------------------------|
 |06/22 - 06/23 |**Project Associate - I**																							|

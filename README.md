@@ -23,7 +23,7 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 
 |			   |																												|
 |--------------|----------------------------------------------------------------------------------------------------------------|
-|06/22 - 06/23 |**Project Associate - I**																							|
+|<font size="1">06/22 - 06/23</font>|**Project Associate - I**																	|
 |			   | Department of Electrical Engineering, National Institute of Technology Calicut.								|
 |			   | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
 |03/20 – 10/20 | **Graduate Engineer Trainee** 																					|
@@ -54,6 +54,11 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Volunteered ALL INDIA POWER AND ENERGY SOCIETY STUDENT CONGRESS 17 under Power Energy Society of IEEE in Government Engineering College, Thrissur.
 - Actively volunteered and participated in various IEEE events including KOCHI HUB MEET, INNOVANCE 1.0, INNOVANCE 2.0, WIE STAR etc.
 
+## Research Publications
+1 S. V. Chandran, P. A. Jose, and M. Deepak, “Improving primary frequency control of wind integrated power system with rfb,” in 2022 Second International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT), IEEE, 2022, pp. 1–6.
+2 P. A. Jose and M. Deepak, “Fast frequency support from doubly fed induction generators in coordination with super-conducting magnetic energy storage systems,” in 2022 IEEE International Conference on Power Electronics, Smart Grid, and Renewable Energy (PESGRE), IEEE, 2022, pp. 1–6.
+3 P. A. Jose, A. V. Jose, M. Deepak, R. Sunitha, et al., “A solution to power balancing in high renewable penetration power system: Use of abandoned generating units,” in 2022 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), IEEE, vol. 1, 2022, pp. 456–462.
+4 P. Sarma S, S. V. Chandran, P. A. Jose, and M. Deepak, “Pev assisted primary frequency control of a wind integrated multi-source power system,” in 2022 IEEE International Power and Renewable Energy Conference (IPRECON), IEEE, 2022, pp. 1–6.
 
 ## Contact
 Feel free to reach out to me at [athul.p@wsu.edu](mailto:athul.p@wsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/athul-jose-p/).

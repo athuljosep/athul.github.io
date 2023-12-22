@@ -33,7 +33,7 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 |2015|2019|**B.Tech.(Hons.) Electrical and Electronics Engineering** APJ Abdul Kalam Technological University Trivandrum in Government Engineering College Thrissur|
 |	 |	  |CGPA: 8.57|
 |	 |	  |Project title: Simulation and Prototyping of Dual Rotor Induction Motor.|
-|2013|2015|**Class 12**Kerala State HSE Board, V.B.H.S.S. Thrissur Percentage: 97%|
+|2013|2015|**Class 12** Kerala State HSE Board, V.B.H.S.S. Thrissur Percentage: 97%|
 |2010|2013|**Class 10** Kerala State HS Board, C.M.S.H.S.S. Thrissur Percentage: 100%|
 
 ## Skills

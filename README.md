@@ -16,13 +16,25 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 
 |	  	     | 			 |								  																|
 |------------|-----------|----------------------------------------------------------------------------------------------|
-|06/22-|06/23|**Project Associate - I**																					|
-| 	   ||Department of Electrical Engineering, National Institute of Technology Calicut.								|
-|	   ||Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
-|03/20–|10/20|**Graduate Engineer Trainee** 																			|
-|	   ||Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
+|06/22|06/23|**Project Associate - I**																					|
+| 	  ||Department of Electrical Engineering, National Institute of Technology Calicut.								|
+|	  ||Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
+|03/20|10/20|**Graduate Engineer Trainee** 																			|
+|	  ||Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
 				
 ## Education
+
+|	 |    |															|
+|----|----|---------------------------------------------------------|
+|2023|present|PhD, Power Systems, Washington State University|
+|2020|2022|M.Tech. Power Systems, National Institute of Technology Calicut|
+|	 |	  |CGPA: 9.47 Institute Gold Medalist|
+|	 |	  |Thesis title: Coordinated Control Strategy for Frequency Support in Wind Turbine Generators.|
+|2015|2019|B.Tech.(Hons.) Electrical and Electronics Engineering, APJ Abdul Kalam Technological University Trivandrum in Government Engineering College Thrissur|
+|	 |	  |CGPA: 8.57|
+|	 |	  |Project title: Simulation and Prototyping of Dual Rotor Induction Motor.|
+|2013|2015|Class 12, Kerala State HSE Board, V.B.H.S.S. Thrissur Percentage: 97%|
+|2010|2013|Class 10, Kerala State HS Board, C.M.S.H.S.S. Thrissur Percentage: 100%|
 
 ## Skills
 **Tools** EMTP, PSCAD/EMTDC, OpenDSS, MATLAB/Simulink

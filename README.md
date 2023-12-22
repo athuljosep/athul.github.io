@@ -17,6 +17,6 @@ Check out my latest blog posts:
 - [Tips for Effective Coding](link-to-coding-tips) - Useful tips to write clean and efficient code.
 
 ## Contact
-Feel free to reach out to me at athul.p@wsu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/athul-jose-p/).
+Feel free to reach out to me at athul.p@wsu.edu(athul.p@wsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/athul-jose-p/).
 
 Thank you for visiting my website!

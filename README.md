@@ -13,17 +13,13 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Distributed Energy Resources & Microgrid
 
 ## Employment History
-06/22 - 06/23	**Project Associate - I**
-				Department of Electrical Engineering, National Institute of Technology Calicut.
-				Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.
-03/20 – 10/20	**Graduate Engineer Trainee**
-				Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited
+06/22 - 06/23 | **Project Associate - I**
+			  |	Department of Electrical Engineering, National Institute of Technology Calicut.
+			  | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.
+03/20 – 10/20 | **Graduate Engineer Trainee**
+			  | Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited
 				
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
+
 				
 				
 ## Projects

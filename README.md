@@ -1,5 +1,3 @@
-# Welcome to Athul Jose Pulikkottil's Personal Website
-
 ## About Me
 Hello! I'm Athul Pulikkottil, a Ph.D. candidate in Electrical Engineering at WSU's Pullman campus. I hold a B. Tech in Electrical and Electronics Engineering from India and a master's in Power Systems. My work with Kerala State Electricity Board and the Department of Science and Technology has nurtured my passion for the power sector, making it my specialization.
 

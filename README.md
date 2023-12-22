@@ -17,22 +17,21 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Distributed Energy Resources & Microgrid
 
 ## Employment History
-
-<font size="1"> this is font 1 </font>
-<font size="2"> this is font 2 </font>
-
-|			   |																												|
-|--------------|----------------------------------------------------------------------------------------------------------------|
-|<font size="1">06/22 - 06/23</font>|**Project Associate - I**																	|
-|			   | Department of Electrical Engineering, National Institute of Technology Calicut.								|
-|			   | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
-|03/20 – 10/20 | **Graduate Engineer Trainee** 																					|
-|			   | Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
+|	  	    |											  																	|
+|-----------|---------------------------------------------------------------------------------------------------------------|
+|06/22-06/23|**Project Associate - I**																						|
+|		    | Department of Electrical Engineering, National Institute of Technology Calicut.								|
+|		    | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
+|03/20–10/20| **Graduate Engineer Trainee** 																				|
+|			| Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited 				|
 				
 ## Education
 
 ## Skills
-
+**Tools** EMTP, PSCAD/EMTDC, OpenDSS, MATLAB/Simulink, . . .
+**Coding** Python, c, c++, Fortran, Delphi, LATEX, . . .
+**Languages** English, Malayalam, Hindi.
+**Misc.** Academic research, teaching, training, LATEX typesetting and publishing
 
 ## Projects
 - **Simulation and Prototyping of Dual Rotor Induction Motor** A co-axial dual squirrel cage rotor induction motor is discussed with potential application in electric vehicles. A conceptual analysis and mechanical configuration of this motor is presented in this project.
@@ -53,6 +52,22 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Coordinator of Voltland Yard, a technical competition as part of DYUTHI 2K17 held at Government Engineering College, Thrissur.
 - Volunteered ALL INDIA POWER AND ENERGY SOCIETY STUDENT CONGRESS 17 under Power Energy Society of IEEE in Government Engineering College, Thrissur.
 - Actively volunteered and participated in various IEEE events including KOCHI HUB MEET, INNOVANCE 1.0, INNOVANCE 2.0, WIE STAR etc.
+
+## Miscellaneous Experience
+### Professional Affiliations
+- Treasurer of IEEE Power and Energy Society, NITC Student Branch Chapter 2021-22.
+- Event Coordinator of IEEE Industry Applications Society, NITC Student Chapter 2021-22.
+### Technical Societies
+- Institute of Electrical and Electronics Engineers (IEEE)
+- International Society for Technology in Education (ISTE)
+- Society of Energy Engineers and Managers (SEEM)
+### Trainings at
+- Keltron Controls Division, Kochi
+- Poringalkuth Hydroelectric Power Station
+- Kozhikode Diesel Power Project
+- Nallalam 220kV Substation
+- Southern Regional Load Despatch Centre, Grid-India, Bengaluru
+- Kuttiyadi Basin Hydro Electric Projects
 
 ## Research Publications
 1 S. V. Chandran, P. A. Jose, and M. Deepak, “Improving primary frequency control of wind integrated power system with rfb,” in 2022 Second International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT), IEEE, 2022, pp. 1–6.

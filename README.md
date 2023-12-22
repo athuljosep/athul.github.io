@@ -13,10 +13,6 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Distributed Energy Resources & Microgrid
 
 ## Employment History
-|    |    |
-|----|----|
-|A|B|
-|c|d| 
 
 |			   | 																												|
 |--------------|----------------------------------------------------------------------------------------------------------------|

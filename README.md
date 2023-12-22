@@ -1,6 +1,18 @@
 ## About Me
-Hello! I'm Athul Pulikkottil, a Ph.D. candidate in Electrical Engineering at WSU's Pullman campus. I hold a B. Tech in Electrical and Electronics Engineering from India and a master's in Power Systems. My work with Kerala State Electricity Board and the Department of Science and Technology has nurtured my passion for the power sector, making it my specialization.
+Responsible and hardworking self-starter who always perseveres to achieve the best results. Works well independently as well as collaboratively in a team setting
 
+## Research Interests
+- Power system stability analysis and optimization
+- Renewable Energy Systems and Integration
+- Distributed Energy Resources & Microgrid
+
+## Employment History
+06/22 - 06/23	**Project Associate - I**
+				Department of Electrical Engineering, National Institute of Technology Calicut.
+				Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.
+03/20 – 10/20	**Graduate Engineer Trainee**
+				Transmission and Construction Sub Division, Madakkathara, Kerala State Electricity Board Limited
+				
 ## Projects
 - **Portfolio Website:** This website you are currently visiting. A showcase of my skills and projects.
 - **Online Task Manager:** A web application to manage tasks and improve productivity.

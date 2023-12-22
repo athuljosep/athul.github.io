@@ -1,7 +1,10 @@
 <style>
 td, th {
    border: none!important;
-   display: none;
+}
+thead th:empty {
+
+    display: none;
 }
 </style>
 
@@ -15,8 +18,9 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 
 ## Employment History
 
-|06/22 - 06/23 |**Project Associate - I**																												|
+|06/22 - 06/23 |**Project Associate - I																							|
 |--------------|----------------------------------------------------------------------------------------------------------------|
+|06/22 - 06/23 |**Project Associate - I																							|
 |			   | Department of Electrical Engineering, National Institute of Technology Calicut.								|
 |			   | Funded by Science and Engineering Research Board, Department of Science and Technology, Government of India.	|
 |03/20 – 10/20 | **Graduate Engineer Trainee** 																					|

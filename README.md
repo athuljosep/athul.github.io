@@ -2,10 +2,6 @@
 td, th {
    border: none!important;
 }
-thead th:empty {
-
-    display: none;
-}
 </style>
 
 ## About Me
@@ -17,6 +13,7 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 - Distributed Energy Resources & Microgrid
 
 ## Employment History
+
 |	  	    |											  																	|
 |-----------|---------------------------------------------------------------------------------------------------------------|
 |06/22-06/23|**Project Associate - I**																						|
@@ -28,9 +25,12 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 ## Education
 
 ## Skills
-**Tools** EMTP, PSCAD/EMTDC, OpenDSS, MATLAB/Simulink, . . .
-**Coding** Python, c, c++, Fortran, Delphi, LATEX, . . .
-**Languages** English, Malayalam, Hindi.
+**Tools** EMTP, PSCAD/EMTDC, OpenDSS, MATLAB/Simulink
+
+**Coding** Python, c, c++, Fortran, Delphi, LATEX
+
+**Languages** English, Malayalam, Hindi
+
 **Misc.** Academic research, teaching, training, LATEX typesetting and publishing
 
 ## Projects

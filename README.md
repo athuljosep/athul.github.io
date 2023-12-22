@@ -28,7 +28,7 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 |----|----|---------------------------------------------------------|
 |2023|present|**PhD, Power Systems** Washington State University|
 |2020|2022|**M.Tech. Power Systems** National Institute of Technology Calicut|
-|	 |	  |CGPA: 9.47 Institute Gold Medalist|
+|	 |	  |CGPA: 9.47 *Institute Gold Medalist*|
 |	 |	  |Thesis title: Coordinated Control Strategy for Frequency Support in Wind Turbine Generators.|
 |2015|2019|**B.Tech.(Hons.) Electrical and Electronics Engineering** APJ Abdul Kalam Technological University Trivandrum in Government Engineering College Thrissur|
 |	 |	  |CGPA: 8.57|
@@ -53,8 +53,8 @@ Responsible and hardworking self-starter who always perseveres to achieve the be
 ## Achievements
 - Institute Gold medallist in M Tech Power Systems 2020-22 batch, NIT Calicut.
 - Secured score of 626 in Graduate Aptitute Test in Engineering (GATE) for Electrical and Electronics Engineering stream in 2020.
--  Awarded with "Best Project Award" for B. Tech. Project in Government Engineering College Thrissur by Alumni Association.
--  Won Crazy Bulbs, a technical event conducted as part of Viviktha 15, the 14th annual convention of ISTE at Government Engineering College, Thrissur.
+- Awarded with "Best Project Award" for B. Tech. Project in Government Engineering College Thrissur by Alumni Association.
+- Won Crazy Bulbs, a technical event conducted as part of Viviktha 15, the 14th annual convention of ISTE at Government Engineering College, Thrissur.
 
 ## Academic Initiative
 - Organizing member of SERB Karyashala High end workshop on “Data Analytics in Electrical Energy System (DAEES 2023)” held at NIT Calicut.
